@@ -1,7 +1,7 @@
-#Hello Donuts
+# Hello Donuts
 Hello Donuts merupakan suatu website dengan tampilan mobile, dimana pengguna dapat memesan Donuts.
 
-#LINE Front-end Framework (LIFF)
+# LINE Front-end Framework (LIFF)
 pada Hello Donuts, kita menggunakan suatu platform yaitu LIFF atau LINE Front-end Framework (LIFF), dimana website ini dapat berjalan dengan baik pada aplikasi LINE tanpa harus keluar dari aplikasi LINE.
 Pada Aplikasi ini saya menggunakanan fitur seperti Get Profile, Initialize, Close Window, Send Message, dan lain-lain.
 
