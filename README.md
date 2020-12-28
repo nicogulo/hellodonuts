@@ -1,10 +1,12 @@
-# Indonesia Food Station
-Setela melihat dari beberapa refrensi, Submission kali ini, saya membuat website tentang Order makanan. Pada website ini terdapat beberapa informasi mengenai Chef dan menu masakannya
-Dimana saya menggunakan Line Front End Framework atau LIFF. [developers.line.biz](https://developers.line.biz/)
-untuk membuka website ini hany tinggal klik link https://liff.line.me/1655334284-2OQvq4vY pada aplikasi LINE masing masing.
-Cukup verifikasi aplikasi maka kita bisa menggunakan fitur dari LIFF ini.
+#Hello Donuts
+Hello Donuts merupakan suatu website dengan tampilan mobile, dimana pengguna dapat memesan Donuts.
+
+#LINE Front-end Framework (LIFF)
+pada Hello Donuts, kita menggunakan suatu platform yaitu LIFF atau LINE Front-end Framework (LIFF), dimana website ini dapat berjalan dengan baik pada aplikasi LINE tanpa harus keluar dari aplikasi LINE.
 Pada Aplikasi ini saya menggunakanan fitur seperti Get Profile, Initialize, Close Window, Send Message, dan lain-lain.
 
-## Testing App
-- Testing app melalui web browser bisa mengakses di link https://liff.line.me/1655334284-2OQvq4vY
-# hellodonuts
+
+# Demo APP
+Untuk mencoba website ini bisa melalui link berikut:
+https://liff.line.me/1655334284-2OQvq4vY pada aplikasi LINE masing masing. atau https://hellodonuts.herokuapp.com
+Cukup verifikasi aplikasi maka kita bisa menggunakan fitur dari LIFF ini.
